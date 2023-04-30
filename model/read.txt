@@ -1,1 +1,1 @@
-You can download both .pkl file using MoviesRecommenderSystem.ipyb file and you also build your own model from .ipyb file
+You can download both .pkl file using MoviesRecommenderSystem.ipyb(Notebook) file and you also build your own model from Notebook file.
